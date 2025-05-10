@@ -55,7 +55,6 @@ struct ProtocolHelper {
     var field50: String = ""
     var field51: String = ""
     var field52: String = ""
-    var field53: String = ""
     var field54: String = ""
     var field55: String = ""
     var field56: String = ""
@@ -112,3 +111,12 @@ struct ProtocolHelper {
     var field107: String = ""
     var field108: String = ""
 }
+// fix typo in drag file — this replaces the earlier 
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
