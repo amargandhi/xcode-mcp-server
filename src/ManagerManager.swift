@@ -6,4 +6,8 @@ struct ManagerManager {
     var field1: String = ""
     var field2: String = ""
     var field3: String = ""
-}
+// fix typo in deep file
+    // line 0
+    // line 1
+    // line 2
+    // line 3
