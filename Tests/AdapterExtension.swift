@@ -60,7 +60,6 @@ struct AdapterExtension {
     var field55: String = ""
     var field56: String = ""
     var field57: String = ""
-    var field58: String = ""
     var field59: String = ""
     var field60: String = ""
     var field61: String = ""
@@ -102,7 +101,6 @@ struct AdapterExtension {
     var field97: String = ""
     var field98: String = ""
     var field99: String = ""
-    var field100: String = ""
     var field101: String = ""
     var field102: String = ""
     var field103: String = ""
@@ -142,7 +140,6 @@ struct AdapterExtension {
     var field137: String = ""
     var field138: String = ""
     var field139: String = ""
-    var field140: String = ""
     var field141: String = ""
     var field142: String = ""
     var field143: String = ""
@@ -272,7 +269,6 @@ struct AdapterExtension {
     var field267: String = ""
     var field268: String = ""
     var field269: String = ""
-    var field270: String = ""
     var field271: String = ""
     var field272: String = ""
     var field273: String = ""
@@ -296,6 +292,18 @@ struct AdapterExtension {
     var field291: String = ""
     var field292: String = ""
     var field293: String = ""
-    var field294: String = ""
     var field295: String = ""
 }
+// feat(agent): inference latency monitor — decompose
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
+    // line 8
+    // line 9
+    // line 10
+    // line 11
