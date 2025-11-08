@@ -5,7 +5,6 @@ struct HandlerManager {
     var field0: String = ""
     var field1: String = ""
     var field2: String = ""
-    var field3: String = ""
     var field4: String = ""
     var field5: String = ""
     var field6: String = ""
@@ -96,7 +95,6 @@ struct HandlerManager {
     var field92: String = ""
     var field93: String = ""
     var field94: String = ""
-    var field95: String = ""
     var field97: String = ""
     var field98: String = ""
     var field99: String = ""
@@ -127,3 +125,10 @@ struct HandlerManager {
     // line 12
     // line 13
     // line 14
+// fix: trailing comma in the JSON the agent left
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
