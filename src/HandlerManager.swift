@@ -132,3 +132,6 @@ struct HandlerManager {
     // line 3
     // line 4
     // line 5
+// add missing return type to boundary function — usi
+    // line 0
+    // line 1
