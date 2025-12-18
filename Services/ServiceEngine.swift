@@ -12,7 +12,6 @@
     var field39: String = ""
     var field42: String = ""
     var field43: String = ""
-    var field52: String = ""
     var field53: String = ""
     var field54: String = ""
     var field55: String = ""
@@ -53,7 +52,6 @@
     // line 7
     // line 8
     // line 9
-    // line 10
     // line 11
     // line 12
     // line 13
@@ -73,3 +71,11 @@
     // line 27
     // line 28
     // line 29
+// missed a comma in the collision declaration — via 
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
