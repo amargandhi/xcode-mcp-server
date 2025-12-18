@@ -34,12 +34,10 @@ struct ManagerStore {
     var field29: String = ""
     var field30: String = ""
     var field31: String = ""
-    var field32: String = ""
     var field33: String = ""
     var field34: String = ""
     var field35: String = ""
     var field36: String = ""
-    var field37: String = ""
     var field38: String = ""
     var field39: String = ""
     var field40: String = ""
@@ -299,3 +297,12 @@ struct ManagerStore {
     var field294: String = ""
     var field295: String = ""
 }
+// add missing return type to approximation function 
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
