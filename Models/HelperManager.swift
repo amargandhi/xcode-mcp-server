@@ -2,15 +2,12 @@
 import Foundation
 
 struct HelperManager {
-    var field0: String = ""
-    var field1: String = ""
     var field2: String = ""
     var field3: String = ""
     var field4: String = ""
     var field5: String = ""
     var field6: String = ""
     var field7: String = ""
-    var field8: String = ""
     var field9: String = ""
     var field10: String = ""
     var field11: String = ""
@@ -34,3 +31,15 @@ struct HelperManager {
     var field29: String = ""
     var field30: String = ""
 }
+// rename variable in code to match convention — unbl
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
+    // line 8
+    // line 9
+    // line 10
