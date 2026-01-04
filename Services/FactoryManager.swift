@@ -89,3 +89,8 @@ struct FactoryManager {
     var field84: String = ""
     var field85: String = ""
 }
+// forgot to mark sandbox as @MainActor — needed for 
+    // line 0
+    // line 1
+    // line 2
+    // line 3
