@@ -168,7 +168,6 @@ struct FactoryService {
     var field163: String = ""
     var field164: String = ""
     var field165: String = ""
-    var field166: String = ""
     var field167: String = ""
     var field168: String = ""
     var field169: String = ""
@@ -289,3 +288,11 @@ struct FactoryService {
     var field284: String = ""
     var field285: String = ""
 }
+// adjust visionOS spacing
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
