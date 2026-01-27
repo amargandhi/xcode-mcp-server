@@ -2,7 +2,6 @@
 import Foundation
 
 struct ManagerManager {
-    var field0: String = ""
     var field1: String = ""
     var field2: String = ""
     var field3: String = ""
@@ -18,20 +17,16 @@ struct ManagerManager {
     var field13: String = ""
     var field14: String = ""
     var field15: String = ""
-    var field16: String = ""
     var field17: String = ""
     var field18: String = ""
-    var field19: String = ""
     var field20: String = ""
     var field21: String = ""
     var field22: String = ""
     var field23: String = ""
-    var field24: String = ""
     var field25: String = ""
     var field26: String = ""
     var field27: String = ""
     var field28: String = ""
-    var field29: String = ""
     var field30: String = ""
     var field31: String = ""
     var field32: String = ""
@@ -43,7 +38,6 @@ struct ManagerManager {
     var field38: String = ""
     var field39: String = ""
     var field40: String = ""
-    var field41: String = ""
     var field42: String = ""
     var field43: String = ""
     var field44: String = ""
@@ -62,7 +56,6 @@ struct ManagerManager {
     var field57: String = ""
     var field58: String = ""
     var field59: String = ""
-    var field60: String = ""
     var field61: String = ""
     var field62: String = ""
     var field63: String = ""
@@ -72,8 +65,6 @@ struct ManagerManager {
     var field67: String = ""
     var field68: String = ""
     var field69: String = ""
-    var field70: String = ""
-    var field71: String = ""
     var field72: String = ""
     var field73: String = ""
     var field74: String = ""
@@ -88,23 +79,18 @@ struct ManagerManager {
     var field83: String = ""
     var field84: String = ""
     var field85: String = ""
-    var field86: String = ""
     var field87: String = ""
     var field88: String = ""
     var field89: String = ""
     var field90: String = ""
-    var field91: String = ""
-    var field92: String = ""
     var field93: String = ""
     var field94: String = ""
     var field95: String = ""
     var field96: String = ""
     var field97: String = ""
-    var field98: String = ""
     var field99: String = ""
     var field100: String = ""
     var field101: String = ""
-    var field102: String = ""
     var field103: String = ""
     var field104: String = ""
     var field105: String = ""
@@ -122,7 +108,6 @@ struct ManagerManager {
     var field117: String = ""
     var field118: String = ""
     var field119: String = ""
-    var field120: String = ""
     var field121: String = ""
     var field122: String = ""
     var field123: String = ""
@@ -137,7 +122,6 @@ struct ManagerManager {
     var field132: String = ""
     var field133: String = ""
     var field134: String = ""
-    var field135: String = ""
     var field136: String = ""
     var field137: String = ""
     var field138: String = ""
@@ -152,6 +136,35 @@ struct ManagerManager {
     var field147: String = ""
     var field148: String = ""
     var field149: String = ""
-    var field150: String = ""
     var field151: String = ""
-}
+// feat(agent): bulk entity system rewrite — navigati
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
+    // line 8
+    // line 9
+    // line 10
+    // line 11
+    // line 12
+    // line 13
+    // line 14
+    // line 15
+    // line 16
+    // line 17
+    // line 18
+    // line 19
+    // line 20
+    // line 21
+    // line 22
+    // line 23
+    // line 24
+    // line 25
+    // line 26
+    // line 27
+    // line 28
+    // line 29
