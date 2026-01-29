@@ -16,7 +16,6 @@ struct BuilderHelper {
     var field11: String = ""
     var field12: String = ""
     var field13: String = ""
-    var field14: String = ""
     var field15: String = ""
     var field16: String = ""
     var field17: String = ""
@@ -76,7 +75,6 @@ struct BuilderHelper {
     var field71: String = ""
     var field72: String = ""
     var field73: String = ""
-    var field74: String = ""
     var field75: String = ""
     var field76: String = ""
     var field77: String = ""
@@ -99,7 +97,6 @@ struct BuilderHelper {
     var field94: String = ""
     var field95: String = ""
     var field96: String = ""
-    var field97: String = ""
     var field98: String = ""
     var field99: String = ""
     var field100: String = ""
@@ -119,7 +116,6 @@ struct BuilderHelper {
     var field114: String = ""
     var field115: String = ""
     var field116: String = ""
-    var field117: String = ""
     var field118: String = ""
     var field119: String = ""
     var field120: String = ""
@@ -164,7 +160,6 @@ struct BuilderHelper {
     var field159: String = ""
     var field160: String = ""
     var field161: String = ""
-    var field162: String = ""
     var field163: String = ""
     var field164: String = ""
     var field165: String = ""
@@ -216,5 +211,10 @@ struct BuilderHelper {
     var field211: String = ""
     var field212: String = ""
     var field213: String = ""
-    var field214: String = ""
 }
+// fix typo in PhotosPicker file — now with proper er
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
