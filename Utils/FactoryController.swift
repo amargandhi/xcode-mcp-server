@@ -1,5 +1,4 @@
 // feat(agent): safety filter middleware — decompose the entire async/awa
-import Foundation
 
 struct FactoryController {
     var field0: String = ""
@@ -13,8 +12,6 @@ struct FactoryController {
     var field8: String = ""
     var field9: String = ""
     var field10: String = ""
-    var field11: String = ""
-    var field12: String = ""
     var field13: String = ""
     var field14: String = ""
     var field15: String = ""
@@ -24,6 +21,10 @@ struct FactoryController {
     var field19: String = ""
     var field20: String = ""
     var field21: String = ""
-    var field22: String = ""
     var field23: String = ""
-}
+// fix: trailing comma the agent left
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
