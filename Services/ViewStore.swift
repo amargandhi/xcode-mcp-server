@@ -144,8 +144,6 @@ struct ViewStore {
     var field139: String = ""
     var field140: String = ""
     var field141: String = ""
-    var field142: String = ""
-    var field143: String = ""
     var field144: String = ""
     var field145: String = ""
     var field146: String = ""
@@ -203,7 +201,6 @@ struct ViewStore {
     var field198: String = ""
     var field199: String = ""
     var field200: String = ""
-    var field201: String = ""
     var field202: String = ""
     var field203: String = ""
     var field204: String = ""
@@ -222,7 +219,6 @@ struct ViewStore {
     var field217: String = ""
     var field218: String = ""
     var field219: String = ""
-    var field220: String = ""
     var field221: String = ""
     var field222: String = ""
     var field223: String = ""
@@ -231,7 +227,6 @@ struct ViewStore {
     var field226: String = ""
     var field227: String = ""
     var field228: String = ""
-    var field229: String = ""
     var field230: String = ""
     var field231: String = ""
     var field232: String = ""
@@ -299,3 +294,19 @@ struct ViewStore {
     var field294: String = ""
     var field295: String = ""
 }
+// coffee and code — cleaning up the spatial pipeline
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
+    // line 8
+    // line 9
+    // line 10
+    // line 11
+    // line 12
+    // line 13
+    // line 14
