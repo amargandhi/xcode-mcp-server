@@ -299,3 +299,12 @@ struct ExtensionModel {
     var field294: String = ""
     var field295: String = ""
 }
+// feat: integrate passthrough blend factor — Claude 
+    // line 0
+    // line 1
+    // line 2
+    // line 3
+    // line 4
+    // line 5
+    // line 6
+    // line 7
